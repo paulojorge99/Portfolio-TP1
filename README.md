@@ -14,3 +14,8 @@ Relativamente ao ficheiro template.py, este apresenta todo o nosso código onde 
 
 
 Além de tudo isto temos uma página html (dados_pessoais.html) onde estão os nossos dados pessoais caso necessitem de entrar em contacto.
+
+
+A pasta RESULTADOS tem todos os ficheiros obtidos correndo na linha de comandos "python3 template.py". Usando o ficheiro INDEX, conseguimos aceder a todos as outras páginas.(de notar que o ficheiro "dados_pessoais" está repetido dentro da pasta, para o caso de o professor não correr na linha de comandos, e usar apenas os ficheiros da pasta resultados).
+
+Caso o professor coloque na linha de comandos "python3 template.py", são criados todos os ficheiros .html  na pasta corrente (devem ser vistos a partir do INDEX) e a pasta "resultados" deve ser ignorada.
