@@ -1,5 +1,5 @@
-**# Portfolio-TP1**
-**Projeto prático 1 de Publicação Eletrónica **
+# Portfolio-TP1
+Projeto prático 1 de Publicação Eletrónica 
 
 No nosso portfólio, todos os reports poderão ser de dois tipos,isto é, existem duas estruturas genéricas para os relatórios. Uma estrutura corresponde a ter um titulo, subtitulo, imagem de capa, autores, informaçao do curso, introducao, estrutura do tipo: questao e respetiva resposta e resolucao, referencias e um link para o relatorio em pdf. A outra estrutura apresenta um titulo, subtitulo, imagem de capa, autores, informaçao do curso, introducao, texto com informacao relevante do assunto do relatorio, imagem final, conclusao, referencias e um link para o relatorio em pdf. Por esse motivo temos dois tipos de templates para gerar as páginas dos relatórios em HTML. Cada relatório é obrigado a ter um título, subtítulo(para termos uma página index), autores(para termos uma página autores), introdução, conclusão e referências e um link desse relatório em pdf. É também obrigado a ter um tipo e uma description(para termos uma página description), onde se encontra o tema do relatório.
 
